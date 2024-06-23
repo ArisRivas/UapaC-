@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{FA16B396-1280-43E1-B1F9-77ED339515EE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.uniuapaII PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="uniuapaII/RegisterRacePage.xaml.cs">
+    <Files>
+      <File FileName="uniuapaII/LoginPage.xaml" />
+      <File FileName="uniuapaII/LoginPage.xaml.cs" />
+      <File FileName="uniuapaII/MainPage.xaml" />
+      <File FileName="uniuapaII/MainPage.xaml.cs" />
+      <File FileName="uniuapaII/RegisterRacePage.xaml" />
+      <File FileName="uniuapaII/RegisterRacePage.xaml.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="uniuapaII" expanded="True">
+            <Node name="uniuapaII" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="RegisterRacePage.xaml" expanded="True">
+                <Node name="RegisterRacePage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

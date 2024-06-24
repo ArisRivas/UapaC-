@@ -2,8 +2,21 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="uniuapaII.RegisterRacePage">
-    <StackLayout>
+    <StackLayout Padding="20">
         <Label Text="Registro de Carrera" FontSize="24" HorizontalOptions="Center" />
-        <!-- Aquí puedes agregar el contenido de tu página -->
+
+        <Label Text="Nombre de la Carrera:" />
+        <Entry x:Name="RaceNameEntry" Placeholder="Introduce el nombre de la carrera" />
+
+        <Label Text="Cantidad de Trimestres:" />
+        <Entry x:Name="TrimesterCountEntry" Placeholder="Introduce la cantidad de trimestres" Keyboard="Numeric" />
+
+        <Label Text="Duración (en años):" />
+        <Entry x:Name="DurationEntry" Placeholder="Introduce la duración en años" Keyboard="Numeric" />
+
+        <Label Text="Escuela a la que pertenece:" />
+        <Entry x:Name="SchoolEntry" Placeholder="Introduce la escuela a la que pertenece" />
+
+        <Button Text="Registrar" Clicked="OnRegisterButtonClicked" />
     </StackLayout>
 </ContentPage>

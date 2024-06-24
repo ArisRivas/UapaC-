@@ -7,27 +7,20 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="uniuapaII/RegisterRacePage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="uniuapaII/uniuapaII.csproj">
     <Files>
-      <File FileName="uniuapaII/LoginPage.xaml" />
-      <File FileName="uniuapaII/LoginPage.xaml.cs" />
-      <File FileName="uniuapaII/MainPage.xaml" />
-      <File FileName="uniuapaII/MainPage.xaml.cs" />
-      <File FileName="uniuapaII/RegisterRacePage.xaml" />
-      <File FileName="uniuapaII/RegisterRacePage.xaml.cs" Line="13" Column="1" />
+      <File FileName="uniuapaII/uniuapaII.csproj" Line="59" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="uniuapaII" expanded="True">
-            <Node name="uniuapaII" expanded="True">
+            <Node name="uniuapaII" expanded="True" selected="True">
               <Node name="App.xaml" expanded="True" />
               <Node name="AppShell.xaml" expanded="True" />
               <Node name="LoginPage.xaml" expanded="True" />
               <Node name="MainPage.xaml" expanded="True" />
-              <Node name="RegisterRacePage.xaml" expanded="True">
-                <Node name="RegisterRacePage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="RegisterRacePage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

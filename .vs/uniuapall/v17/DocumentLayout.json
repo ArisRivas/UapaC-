@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\registrarcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:registrarcarrera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\seleccionarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:seleccionarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\seleccionarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:seleccionarcarreras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:loginusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|c:\\users\\esmar\\source\\repos\\uniuapall\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E12FA58F-6949-488B-8314-FFDD9CA961F9}|uniuapall.csproj|solutionrelative:homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeleccionarCarreras.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\SeleccionarCarreras.cs",
+              "RelativeDocumentMoniker": "SeleccionarCarreras.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\SeleccionarCarreras.cs [Design]",
+              "RelativeToolTip": "SeleccionarCarreras.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T00:42:08.083Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeleccionarCarreras.cs",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\SeleccionarCarreras.cs",
+              "RelativeDocumentMoniker": "SeleccionarCarreras.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\SeleccionarCarreras.cs",
+              "RelativeToolTip": "SeleccionarCarreras.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewEIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:41:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\HomePage.cs",
+              "RelativeToolTip": "HomePage.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswBwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:25:43.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrarCarrera.cs",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\RegistrarCarrera.cs",
+              "RelativeDocumentMoniker": "RegistrarCarrera.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\RegistrarCarrera.cs",
+              "RelativeToolTip": "RegistrarCarrera.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDMAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:57:45.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\LoginUsuario.cs",
+              "RelativeDocumentMoniker": "LoginUsuario.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\LoginUsuario.cs",
+              "RelativeToolTip": "LoginUsuario.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAWwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T23:13:32.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\HomePage.cs",
+              "RelativeDocumentMoniker": "HomePage.cs",
+              "ToolTip": "C:\\Users\\Esmar\\source\\repos\\uniuapall\\HomePage.cs [Design]",
+              "RelativeToolTip": "HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:10:58.272Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

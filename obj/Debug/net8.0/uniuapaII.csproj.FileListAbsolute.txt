@@ -1,0 +1,6 @@
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.csproj.AssemblyReference.cache
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.AssemblyInfoInputs.cache
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.AssemblyInfo.cs
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.csproj.CoreCompileInputs.cache
+/Users/arileidy/Projects/uniuapaII/obj/Debug/net8.0/uniuapaII.sourcelink.json

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="uniuapaII.app/Contents/MacOS/uniuapaII">
+      <BCSymbolMapName>uniuapaII.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>uniuapaII.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/arileidy/Projects/uniuapaII/uniuapaII/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>uniuapaII.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/arileidy/Projects/uniuapaII/uniuapaII</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="uniuapaII.WelcomePage">
+    <StackLayout>
+        <Label Text="Bienvenido, [Nombre del Usuario]" FontSize="24" HorizontalOptions="Center" />
+        <Button Text="Seleccionar asignaturas" Clicked="OnSelectSubjectsClicked" />
+        <Button Text="Imprimir selección" Clicked="OnPrintSelectionClicked" />
+    </StackLayout>
+</ContentPage>

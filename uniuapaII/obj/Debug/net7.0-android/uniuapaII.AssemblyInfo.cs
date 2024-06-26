@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("uniuapaII")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e8186147895196404ed500b5828d5bb4bd064245")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f11b7f26ba6cca3221233e4937a89b85696fa1e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("uniuapaII")]
 [assembly: System.Reflection.AssemblyTitleAttribute("uniuapaII")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

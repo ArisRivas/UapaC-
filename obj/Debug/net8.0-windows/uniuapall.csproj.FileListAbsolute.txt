@@ -26,3 +26,4 @@ C:\Users\Esmar\source\repos\uniuapall\obj\Debug\net8.0-windows\ref\uniuapall.dll
 C:\Users\Esmar\source\repos\uniuapall\obj\Debug\net8.0-windows\uniuapall.LoginUsuario.resources
 C:\Users\Esmar\source\repos\uniuapall\obj\Debug\net8.0-windows\uniuapall.HomePage.resources
 C:\Users\Esmar\source\repos\uniuapall\obj\Debug\net8.0-windows\uniuapall.SeleccionarCarreras.resources
+C:\Users\Esmar\source\repos\uniuapall\obj\Debug\net8.0-windows\uniuapall.Imprimir.resources

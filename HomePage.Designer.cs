@@ -60,6 +60,7 @@
             ImprimirSelecc.TabIndex = 1;
             ImprimirSelecc.Text = "Imprimir Selección";
             ImprimirSelecc.UseVisualStyleBackColor = true;
+            ImprimirSelecc.Click += ImprimirSelecc_Click;
             // 
             // HomePage
             // 

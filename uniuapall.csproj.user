@@ -4,6 +4,9 @@
     <Compile Update="HomePage.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Imprimir.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="LoginUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
